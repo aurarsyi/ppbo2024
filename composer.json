@@ -1,0 +1,17 @@
+{
+  "name": "aurarsyi/ppbo2024",
+  "description": "Pemrograman berorientasi objek",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "aurarsyi",
+      "email": "auraarsyi88@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "App"
+    }
+  }
+}
