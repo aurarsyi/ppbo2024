@@ -1,4 +1,6 @@
 <?php
+
+namespace App\Shape\Bola;
 class Bola
 {
     const PHI = 3.14;

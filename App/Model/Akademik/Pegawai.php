@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Admin;
+namespace App\Model\Akademik;
 
 class Pegawai {
     // Atribut

@@ -1,4 +1,6 @@
 <?php
+
+namespace App\Shape\Tabung;
 class Tabung
 {
     const PHI = 3.14;
